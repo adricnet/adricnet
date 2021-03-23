@@ -1,4 +1,13 @@
-### Hi there 👋
+## README
+
+**blurb**
+```--
+Ben S. Knowles | BBSTi, CISSP, GIAC**0x0c, GSE, ITIL, LPI
+Information Security Leader & Educator | Twitter, Github: @dfirnotes 
+```
+**1Q2021**
+* Working on: GSE renewal: course material reviews and VulnHub target practice
+* Wishlist: KLPC (both!)
 
 <!--
 **adricnet/adricnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
