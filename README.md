@@ -2,12 +2,14 @@
 
 **blurb**
 ```--
-Ben S. Knowles | BBSTi, CISSP, GIAC**0x0c, GSE, ITIL, LPI
+Ben S. Knowles | BBSTi, CISSP, GIAC**0x0c, GSE**2, ITIL, LPI, MAD CTI
 Information Security Leader & Educator | Twitter, Github: @dfirnotes 
 ```
-**1Q2021**
-* Working on: GSE renewal: course material reviews and VulnHub target practice
-* Wishlist: KLPC (both!)
+**2Q2021**
+* Working on: SEC564 and VulnHub target practice (in Proving Grounds)
+* Next Up: GSTRT
+* Uni: _on hold_
+* Wishlist: KLPC (both!), OSCP
 
 <!--
 **adricnet/adricnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
