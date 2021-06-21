@@ -11,6 +11,7 @@ Information Security Leader & Educator | Twitter, Github: @dfirnotes
 * Uni: _on hold_
 * Wishlist: KLPC (both!), OSCP
 
+More details / reminders to myself: http://www.dfirnotes.net/study-plan-21/
 <!--
 **adricnet/adricnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
