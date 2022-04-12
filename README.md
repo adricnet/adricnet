@@ -5,13 +5,13 @@
 Ben S. Knowles | BBSTi, CISSP, GIAC**0x0c, GSE**2, ITIL, LPI, MAD CTI
 Information Security Leader & Educator | Twitter, Github: @dfirnotes 
 ```
-**2Q2021**
-* Working on: SEC564 and VulnHub target practice (in Proving Grounds)
-* Next Up: GSTRT
+**2Q2022**
+* Working on: FOR610 labs review
+* acabar de: Ghidra class, KernelCon
 * Uni: _on hold_
-* Wishlist: KLPC (both!), OSCP
+* Wishlist: KLPC (both!), FOR710, MAD Adv Emu
 
-More details / reminders to myself: http://www.dfirnotes.net/study-plan-21/
+More details / reminders to myself: http://www.dfirnotes.net/planning_2022/
 <!--
 **adricnet/adricnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
